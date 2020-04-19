@@ -1,2 +1,0 @@
-# string
-tugas 2
